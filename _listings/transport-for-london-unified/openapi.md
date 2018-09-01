@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Transport for London Unified
 x-complete: 1
@@ -2065,4 +2064,3 @@ paths:
       - S
       - ""
       - Arrivals
----
